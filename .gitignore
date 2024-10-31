@@ -2,7 +2,6 @@
 .idea
 log
 data
-models
 
 eval_results/
 

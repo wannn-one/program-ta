@@ -1,0 +1,12 @@
+BACKGROUND
+Car
+Muatan Overdimension Truk Double
+Muatan Overdimension Truk Double-Vessel
+Muatan Overdimension Truk Kontainer Open-cargo
+Muatan Overdimension Truk Single
+Pick-Up
+Truk Double
+Truk Double-Vessel
+Truk Kontainer Flat-bed
+Truk Kontainer Open-cargo
+Truk single
